@@ -1,5 +1,11 @@
 # t-minus
 
+## 1.0.1
+
+### Patch Changes
+
+- c0b7471: add readme
+
 ## 1.0.0
 
 ### Major Changes
