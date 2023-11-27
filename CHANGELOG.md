@@ -1,5 +1,11 @@
 # t-minus
 
+## 1.0.0
+
+### Major Changes
+
+- 4ba8a58: Add tMinus function
+
 ## 0.0.5
 
 ### Patch Changes
